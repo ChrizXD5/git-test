@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//Hello this is chris
 int main()
 {
     char phrase[] = "How did we get here";
